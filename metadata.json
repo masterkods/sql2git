@@ -1,0 +1,5 @@
+{
+  "name": "PostgreSQL to Git Exporter",
+  "description": "Periodically exports a PostgreSQL database to JSON files and pushes them to a Git repository.",
+  "requestFramePermissions": []
+}
